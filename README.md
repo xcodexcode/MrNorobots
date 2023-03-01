@@ -1,37 +1,38 @@
-# Hi there 👋, I'm MrNorobots
+# Hi there 👋, I'm MrNorobots 
 
-lol![hackerman-rami-malek](https://user-images.githubusercontent.com/125509450/222256136-3d82222e-4bce-47ca-b49b-98458c9dc908.gif)
 
 
 ## 🚀 About Me
 
-I'm a software developer who loves to build web applications and solve problems with code. I'm also passionate about learning new technologies and sharing knowledge with others. 
+I'm passionate about learning new technologies and sharing knowledge with others, I'm an economics student but i also learn about Programming online. *I just love it !* 
 
 ## 🛠️ Tools & Technologies
+- Python
 - HTML
 - CSS
-- JavaScript
+- JavaScript                                                           
 - React
+<div style="float:right; margin-left:10px;">
+  <image=(https://i.gifer.com/4JZ4.gif)>
+</div>
+
+- [![xero-code](https://user-images.githubusercontent.com/125509450/222269094-e6a7af3c-187a-408d-a02d-8b977bfcaa94.gif)](https://i.gifer.com/4JZ4.gif)
 - Node.js
 - MongoDB
 - Express.js
 
 ## 💻 Projects
-- [Task Manager Web Application](https://github.com/MrNorobots/task-manager-app)
-- [Weather App using OpenWeatherMap API](https://github.com/MrNorobots/weather-app)
-- [Personal Portfolio Website](https://github.com/MrNorobots/portfolio-website)
+
+![QDWt](https://user-images.githubusercontent.com/125509450/222270382-6f74f864-0185-4618-bae9-7fc6104576c3.gif)
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/MrNorobots/)
-- [Twitter](https://twitter.com/MrNorobots/)
-- [Email](mailto:MrNorobots@example.com)
+
+- [Twitter](https://twitter.com/xCODE_NABIL/)
+- [Email](mailto:mr.norobots@gmail.com)
+
 
 ## 🎉 Fun Fact
-I'm a big fan of science fiction and love to read and watch movies in the genre. ![3d-pizza](https://user-images.githubusercontent.com/125509450/222255904-384a2929-1062-44f3-b5b9-f06af0f406d7.gif)
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7ZeMzj0N7QzNQwqE/giphy.gif" alt="Coding Gif" width="500"/>
-</p>
-
+I'm a big fan of science fiction and love to read and watch movies in the genre. 
+[![xero-code](https://user-images.githubusercontent.com/125509450/222269094-e6a7af3c-187a-408d-a02d-8b977bfcaa94.gif)](https://i.gifer.com/4JZ4.gif)
 Thanks for stopping by! 😄 
+

@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi Welcome to my profile;Second+line+of+text)](https://git.io/typing-svg)
 <!--
-**MrNorobots/MrNorobots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=991&color=F25AD9&center=true&vCenter=true&width=435&lines=HI+!+Welcome+to+my+profile;I'm+XCODE+I+love+coding+" alt="Typing SVG" /></a>
+**MrNorobots/MrNorobots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

@@ -1,4 +1,11 @@
-# Hi there 👋, I'm MrNorobots 
+# Hi there 👋, I'm MrNorobots
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'M+MrNorobots;Software+Engineering+Student; economics+graduate!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
+
+
+![33HI](https://user-images.githubusercontent.com/125509450/222301350-99392611-b89f-4bfb-945b-f309bd54c83f.gif)
 
 
 
@@ -6,33 +13,18 @@
 
 I'm passionate about learning new technologies and sharing knowledge with others, I'm an economics student but i also learn about Programming online. *I just love it !* 
 
-## 🛠️ Tools & Technologies
-- Python
-- HTML
-- CSS
-- JavaScript                                                           
-- React
-<div style="float:right; margin-left:10px;">
-  <image=(https://i.gifer.com/4JZ4.gif)>
-</div>
-
-- [![xero-code](https://user-images.githubusercontent.com/125509450/222269094-e6a7af3c-187a-408d-a02d-8b977bfcaa94.gif)](https://i.gifer.com/4JZ4.gif)
-- Node.js
-- MongoDB
-- Express.js
+## 🛠️ Skills & Tools
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,c,git,html,py,figma&theme=light)](https://skills.thijs.gg)
 
 ## 💻 Projects
+
 
 ![QDWt](https://user-images.githubusercontent.com/125509450/222270382-6f74f864-0185-4618-bae9-7fc6104576c3.gif)
 
 ## 🤝 Connect with Me
 
-- [Twitter](https://twitter.com/xCODE_NABIL/)
-- [Email](mailto:mr.norobots@gmail.com)
-
-
-## 🎉 Fun Fact
-I'm a big fan of science fiction and love to read and watch movies in the genre. 
 [![xero-code](https://user-images.githubusercontent.com/125509450/222269094-e6a7af3c-187a-408d-a02d-8b977bfcaa94.gif)](https://i.gifer.com/4JZ4.gif)
-Thanks for stopping by! 😄 
 
+[![My Skills](https://skills.thijs.gg/icons?i=twitter&theme=light)](https://twitter.com/xCODE_NABIL/)___[![My Skills](https://skills.thijs.gg/icons?i=instagram&theme=light)](https://instagram.com/uptown_vibe777)
+
+Thanks for stopping by! 😄

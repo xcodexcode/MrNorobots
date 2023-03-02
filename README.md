@@ -29,3 +29,4 @@ I'm passionate about learning new technologies and sharing knowledge with others
 [![My Skills](https://skills.thijs.gg/icons?i=twitter&theme=light)](https://twitter.com/xCODE_NABIL/)___[![My Skills](https://skills.thijs.gg/icons?i=instagram&theme=light)](https://instagram.com/uptown_vibe777)
 
 Thanks for stopping by! 😄
+[![ViewCount](https://views.whatilearened.today/views/github/MrNorobots/MrNorobots.svg)](https://github.com/MrNorobots/MrNorobots/)

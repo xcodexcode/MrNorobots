@@ -1,6 +1,6 @@
 # Hi there 👋, I'm MrNorobots
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'M+MrNorobots;Software+Engineering+Student; economics+graduate!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'M+Nabil+Miski+/+MrNorobots;Software+Engineering+Student; economics+graduate!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 
